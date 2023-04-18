@@ -12,5 +12,4 @@ export         XDG_SESSION_TYPE=wayland
 
 export          LIBSEAT_BACKEND=logind
 
-
 exec Hyprland
